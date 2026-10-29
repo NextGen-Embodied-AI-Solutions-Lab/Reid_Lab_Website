@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects · Reid Lab</title>
+  <meta name="description" content="Student projects in the Reid Lab: the BlueBoat autonomous surface vessel, crop-row navigation on the farm-ng Amiga robot, and video understanding for robot missions.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <img src="assets/favicon.svg" alt="" width="40" height="40">
+        <span>
+          <span class="brand-name">Reid Lab</span>
+          <span class="brand-tag">Autonomy, robotics &amp; AI for agriculture</span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html">Home</a>
+        <a href="research.html">Research</a>
+        <a href="projects.html" aria-current="page">Projects</a>
+        <a href="people.html">People</a>
+        <a href="publications.html">Publications</a>
+        <a href="news.html">News</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="page-header">
+      <div class="container">
+        <h1>Student projects</h1>
+        <p>Hands-on projects built by students in the lab, from field robots to autonomous boats.</p>
+      </div>
+    </div>
+
+    <section class="section">
+      <div class="container">
+        <!-- One <article class="project"> per project. Descriptions are summarized from each project's README
+             in the lab's GitHub organization; those repositories are private, so the cards don't link to them. -->
+        <div class="projects">
+          <article class="project" id="blueboat">
+            <div class="project-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 13h17l-2.8 4.5H6.3z"/><path d="M8.5 13v-3h7v3"/><path d="M12 10V6.5"/><path d="M10.5 6.5h3"/><path d="M2 21c1.7 0 1.7-1 3.3-1s1.7 1 3.4 1 1.6-1 3.3-1 1.7 1 3.3 1 1.7-1 3.4-1 1.6 1 3.3 1"/></svg>
+            </div>
+            <div class="project-body">
+              <p class="label">Marine autonomy</p>
+              <h2>BlueBoat: autonomous surface vessel</h2>
+              <p>An autonomy stack for the BlueBoat, a small uncrewed surface vessel (USV), covering navigation, obstacle detection, and collision avoidance in coastal and aquaculture waters. It spans the full pipeline from perception, using a stereo camera, lidar, and sonar, through planning and control.</p>
+              <ul class="project-points">
+                <li>Two autonomy stacks, ROS&nbsp;2 (Nav2) and MOOS-IvP, both driving the vessel through ArduPilot, with a hybrid A* path planner and an MPC trajectory tracker.</li>
+                <li>A custom Nav2 controller that avoids moving vessels while following COLREGs, the international rules for preventing collisions at sea.</li>
+                <li>Simulation in Gazebo with waves, plus a reinforcement learning environment that trains collision avoidance in head-on and crossing encounters.</li>
+              </ul>
+              <ul class="tags" aria-label="Tools">
+                <li>ROS 2</li><li>Nav2</li><li>MOOS-IvP</li><li>ArduPilot</li><li>Gazebo</li><li>Reinforcement learning</li>
+              </ul>
+              <p class="project-related">Related research: <a href="research.html#embodied-ai">Embodied AI beyond the farm</a></p>
+            </div>
+          </article>
+
+          <article class="project" id="amiga">
+            <div class="project-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16V5.5h16V16"/><path d="M2.5 5.5h19"/><rect x="7" y="8.5" width="10" height="4.5" rx="1"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="17.5" cy="18" r="2.5"/><path d="M9 18h6"/><path d="M12 5.5V3"/></svg>
+            </div>
+            <div class="project-body">
+              <p class="label">Agricultural robotics</p>
+              <h2>Amiga: crop-row navigation</h2>
+              <p>Crop-row perception and RTK GPS navigation for the farm-ng Amiga field robot. Two cameras on a gantry look down at the canopy; the perception system finds the crop rows and tells the lab's model predictive controller how far the robot is from the row center, while RTK GPS provides precise global position.</p>
+              <ul class="project-points">
+                <li>Row detection in both the camera view and a stitched bird's-eye view, fused when the two agree. This and the RTK GPS setup have been tested in the field.</li>
+                <li>In progress: learned row segmentation trained on pseudo-labels from Segment Anything (SAM), and stereo depth fusion.</li>
+                <li>A multispectral camera pipeline for plant phenotyping, and an onboard recorder that logs data from every field run.</li>
+              </ul>
+              <ul class="tags" aria-label="Tools">
+                <li>farm-ng Amiga</li><li>ROS 2</li><li>OAK-D cameras</li><li>RTK GPS</li><li>MPC</li><li>Segment Anything</li>
+              </ul>
+              <p class="project-related">Related research: <a href="research.html#robotics">Agricultural robotics and autonomy</a></p>
+            </div>
+          </article>
+
+          <article class="project" id="cerl">
+            <div class="project-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="13" height="10" rx="1.5"/><path d="M15 9l5-3v8l-5-3"/><circle cx="16" cy="18" r="2.6"/><path d="M17.9 19.9l2.6 2.6"/><path d="M5 18.5h6"/></svg>
+            </div>
+            <div class="project-body">
+              <p class="label">Embodied AI and safety</p>
+              <h2>CERL: video understanding for robot missions</h2>
+              <p>A question-answering system for live video from drones, robots, and worksites. A vision-language model describes each scene and flags hazards, such as workers in a trench or a boat striking a buoy. The descriptions are stored in a vector database, so an operator can ask questions in plain language and get an answer along with the matching video clips.</p>
+              <ul class="project-points">
+                <li>Retrieval-augmented generation (RAG) over video and images, with a Milvus vector database and a web interface built in Gradio.</li>
+                <li>Operators can add their own hazard questions during a mission, and the system periodically rates how well each goal of the mission plan is being met.</li>
+                <li>Next steps: adding radar as an input and testing which hazards the system can reliably detect.</li>
+              </ul>
+              <ul class="tags" aria-label="Tools">
+                <li>Vision-language models</li><li>RAG</li><li>Milvus</li><li>Gradio</li>
+              </ul>
+              <p class="project-related">Related research: <a href="research.html#safety">Safety of autonomous machinery</a></p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container github-band">
+        <div>
+          <h2 class="section-title">Code on GitHub</h2>
+          <p>The lab's software lives in the NextGen Embodied AI Solutions Lab organization on GitHub. Some repositories are private to lab members.</p>
+        </div>
+        <a class="btn" href="https://github.com/NextGen-Embodied-AI-Solutions-Lab">View on GitHub</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="footer-name">Reid Lab</p>
+        <p>Perception, autonomy, and AI for agricultural and biological systems, led by Dr. John F. Reid.</p>
+      </div>
+      <div>
+        <h2 class="footer-head">Explore</h2>
+        <ul class="footer-links">
+          <li><a href="research.html">Research</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="people.html">People</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="index.html#join">Join the lab</a></li>
+          <li><a href="https://github.com/NextGen-Embodied-AI-Solutions-Lab">GitHub</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2 class="footer-head">Contact</h2>
+        <address>1205 W. Clark St.<br>Urbana, IL 61801</address>
+        <p><a href="tel:+12172440710">217-244-0710</a><br><a href="mailto:j-reid1@illinois.edu">j-reid1@illinois.edu</a></p>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>© 2026 Reid Lab</span>
+      <a href="credits.html">Photo credits</a>
+    </div>
+  </footer>
+</body>
+</html>

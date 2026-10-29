@@ -1,0 +1,69 @@
+# When someone submits one of the "Add to the website" forms (.github/ISSUE_TEMPLATE/),
+# this adds their entry to the site and opens a pull request. Merging the pull request
+# publishes it and closes the form's issue. Editing the issue updates the pull request.
+name: Website forms
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: site-form-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  update-site:
+    if: github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add the entry to the site
+        id: apply
+        env:
+          # The issue text is passed as data, never pasted into a shell command.
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          FORM_ERROR_FILE: ${{ runner.temp }}/form-error.md
+        run: python3 tools/add_from_issue.py
+
+      - name: Open or update the pull request
+        if: steps.apply.outputs.kind != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          KIND: ${{ steps.apply.outputs.kind }}
+          LABEL: ${{ steps.apply.outputs.label }}
+        run: |
+          git add data people.html publications.html
+          if git diff --cached --quiet; then
+            echo "The site already has this entry."
+            exit 0
+          fi
+          branch="site-form/issue-$NUMBER"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C "$branch"
+          git commit -m "Add $KIND: $LABEL" -m "From the website form in #$NUMBER."
+          git push --force origin "$branch"
+          if ! gh pr view "$branch" > /dev/null 2>&1; then
+            gh pr create --head "$branch" --title "Add $KIND: $LABEL" \
+              --body "From the website form in #$NUMBER. Check the preview of the change, then merge to publish it. Closes #$NUMBER."
+            gh issue comment "$NUMBER" --body "Thanks! The change is ready for a site maintainer to approve. It will appear on the website once it's merged."
+          fi
+
+      - name: Ask for fixes on the issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          ERROR_FILE: ${{ runner.temp }}/form-error.md
+        run: |
+          if [ ! -s "$ERROR_FILE" ]; then
+            echo "Something went wrong while preparing the site update. A site maintainer will take a look." > "$ERROR_FILE"
+          fi
+          gh issue comment "$NUMBER" --body-file "$ERROR_FILE"

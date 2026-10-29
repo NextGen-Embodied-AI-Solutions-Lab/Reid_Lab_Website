@@ -1,0 +1,38 @@
+name: Add yourself to the website
+description: For new lab members. Adds your card to Graduate students on the People page.
+title: "Add member: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill this in once you've joined the lab. Submitting it prepares the change automatically, and your card goes live when a site maintainer approves it. To update your card later, submit the form again with the same name.
+  - type: input
+    attributes:
+      label: Full name
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Program
+      description: Your degree and department.
+      placeholder: M.S. Robotics
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: About you
+      description: Up to 3 lines (170 characters) on what you work on in the lab.
+      placeholder: Works on crop-row perception for the Amiga field robot.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Email
+      description: Shown on your card. Leave blank to hide it.
+      placeholder: netid@illinois.edu
+  - type: input
+    attributes:
+      label: Website or LinkedIn
+      description: Your name on the site will link here.
+      placeholder: https://www.linkedin.com/in/your-profile

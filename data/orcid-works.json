@@ -1,0 +1,1468 @@
+[
+ {
+  "year": 2024,
+  "patent": false,
+  "kind": "Journal",
+  "title": "An Index for Quantifying Circularity of Bioeconomy Systems",
+  "authors": [
+   "Y. Zhang",
+   "S. Summers",
+   "J. Jones",
+   "J. F. Reid"
+  ],
+  "venue": "Resources, Conservation and Recycling",
+  "url": "https://doi.org/10.2139/ssrn.4737117"
+ },
+ {
+  "year": 2024,
+  "patent": false,
+  "kind": "Chapter",
+  "title": "Autonomous navigation and path planning for agricultural robots",
+  "authors": [
+   "J. F. Reid"
+  ],
+  "venue": "Advances in agri-food robotics",
+  "url": "https://shop.bdspublishing.com/store/bds/detail/product/3-190-9781835451267"
+ },
+ {
+  "year": 2024,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Identification of Advantages and Limitations of Current Risk Assessment and Hazard Analysis Methods when Applied on Autonomous Agricultural Machineries",
+  "authors": [
+   "G. R. Aby",
+   "S. F. Issa",
+   "J. F. Reid",
+   "C. Beseler",
+   "J. M. Shutske"
+  ],
+  "venue": "Journal of Agricultural Safety and Health",
+  "url": "https://doi.org/10.13031/jash.15873"
+ },
+ {
+  "year": 2022,
+  "patent": false,
+  "kind": "Article",
+  "title": "The Digitalization of Production Agriculture",
+  "authors": [
+   "J. F. Reid"
+  ],
+  "venue": "The Bridge, National Academy of Engineering",
+  "url": "https://www.nae.edu/276539/The-Digitalization-of-Production-Agriculture"
+ },
+ {
+  "year": 2019,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Agronomic variation and team performance analysis",
+  "authors": [
+   "T. A. Deutsch",
+   "A. D. Foessel",
+   "D. W. Pfeiffer",
+   "J. F. Reid"
+  ],
+  "venue": "US 10311527 B2",
+  "url": "https://www.lens.org/083-013-152-283-251"
+ },
+ {
+  "year": 2016,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Autonomous Driving in Agriculture Leading to Autonomous Worksite Solutions",
+  "authors": [
+   "J. F. Reid",
+   "S. Moorehead",
+   "A. Foessel",
+   "J. Sanchez"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/2016-01-8006"
+ },
+ {
+  "year": 2016,
+  "patent": false,
+  "kind": "Book",
+  "title": "Robotics in Agriculture and Forestry",
+  "authors": [
+   "M. Bergerman",
+   "J. Billingsley",
+   "J. F. Reid",
+   "E. van Henten"
+  ],
+  "venue": "Springer Handbook of Robotics",
+  "url": "https://doi.org/10.1007/978-3-319-32552-1_56"
+ },
+ {
+  "year": 2014,
+  "patent": true,
+  "kind": "Patent",
+  "title": "System and method for detecting and analyzing features in an agricultural field",
+  "authors": [
+   "F. Rovira-Más",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 8737720 B2",
+  "url": "https://www.lens.org/012-971-813-858-31X"
+ },
+ {
+  "year": 2014,
+  "patent": true,
+  "kind": "Patent",
+  "title": "System and method for detecting and analyzing features in an agricultural field for vehicle guidance",
+  "authors": [
+   "F. Rovira-Más",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 8855405 B2",
+  "url": "https://www.lens.org/128-779-721-506-647"
+ },
+ {
+  "year": 2013,
+  "patent": false,
+  "kind": "Journal",
+  "title": "IEEE robotics and automation society technical committee on agricultural robotics and automation",
+  "authors": [
+   "M. Bergerman",
+   "E. Van Henten",
+   "J. Billingsley",
+   "J. F. Reid",
+   "D. Mingcong"
+  ],
+  "venue": "IEEE Robotics and Automation Magazine",
+  "url": "https://doi.org/10.1109/MRA.2013.2255513"
+ },
+ {
+  "year": 2013,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Perception model for trajectory following autonomous and human augmented speed control",
+  "authors": [
+   "W. R. Norris",
+   "J. F. Reid",
+   "B. E. Romig"
+  ],
+  "venue": "US 8498796 B2",
+  "url": "https://www.lens.org/092-961-536-849-134"
+ },
+ {
+  "year": 2013,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Perception model for trajectory following autonomous and human augmented steering control",
+  "authors": [
+   "W. R. Norris",
+   "J. F. Reid",
+   "B. E. Romig"
+  ],
+  "venue": "US 8510034 B2",
+  "url": "https://www.lens.org/016-389-607-804-427"
+ },
+ {
+  "year": 2013,
+  "patent": true,
+  "kind": "Patent",
+  "title": "System for guiding a vehicle",
+  "authors": [
+   "S. Han",
+   "T. D. Pickett",
+   "J. F. Reid"
+  ],
+  "venue": "EP 1527667 B1",
+  "url": "https://www.lens.org/088-159-917-968-601"
+ },
+ {
+  "year": 2011,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Human perception model for speed control performance",
+  "authors": [
+   "B. J. Gilmore",
+   "W. R. Norris",
+   "J. F. Reid",
+   "B. E. Romig"
+  ],
+  "venue": "US 7895135 B2",
+  "url": "https://www.lens.org/117-314-696-728-942"
+ },
+ {
+  "year": 2011,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method and system for guiding a vehicle with vision-based adjustment",
+  "authors": [
+   "S. Han",
+   "T. D. Pickett",
+   "J. F. Reid"
+  ],
+  "venue": "US 7876927 B2",
+  "url": "https://www.lens.org/062-953-119-166-019"
+ },
+ {
+  "year": 2010,
+  "patent": false,
+  "kind": "Conference",
+  "title": "R-Gator: An unmanned utility vehicle",
+  "authors": [
+   "S. J. Moorehead",
+   "C. K. Wellington",
+   "H. Paulino",
+   "J. F. Reid"
+  ],
+  "venue": "Proceedings of SPIE - The International Society for Optical Engineering",
+  "url": "https://doi.org/10.1117/12.852483"
+ },
+ {
+  "year": 2010,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Vehicle steering control method and performance",
+  "authors": [
+   "B. J. Gilmore",
+   "W. R. Norris",
+   "J. F. Reid",
+   "B. E. Romig"
+  ],
+  "venue": "US 7769512 B2",
+  "url": "https://www.lens.org/146-042-092-820-567"
+ },
+ {
+  "year": 2010,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Vehicular guidance system having compensation for variations in ground elevation",
+  "authors": [
+   "S. Han",
+   "T. D. Pickett",
+   "J. F. Reid"
+  ],
+  "venue": "US 7844380 B2",
+  "url": "https://www.lens.org/068-758-255-787-869"
+ },
+ {
+  "year": 2009,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method for processing stereo vision data using image density",
+  "authors": [
+   "J. F. Reid",
+   "F. Rovira-Más",
+   "Q. Zhang"
+  ],
+  "venue": "US 7587081 B2",
+  "url": "https://www.lens.org/044-909-687-770-870"
+ },
+ {
+  "year": 2008,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Evaluation of automatically steered agricultural vehicles",
+  "authors": [
+   "F. Rovira-Más",
+   "S. Han",
+   "J. F. Reid"
+  ],
+  "venue": "Record - IEEE PLANS, Position Location and Navigation Symposium",
+  "url": "https://doi.org/10.1109/PLANS.2008.4570022"
+ },
+ {
+  "year": 2008,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Fuzzy logic control of a multispectral imaging sensor for in-field plant sensing",
+  "authors": [
+   "Y. Kim",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "Computers and Electronics in Agriculture",
+  "url": "https://doi.org/10.1016/j.compag.2007.09.008"
+ },
+ {
+  "year": 2008,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Human Perception Model for Steering Performance",
+  "authors": [
+   "B. J. Gilmore",
+   "W. R. Norris",
+   "J. F. Reid",
+   "B. E. Romig"
+  ],
+  "venue": "US 2008/0195281 A1",
+  "url": "https://www.lens.org/057-158-057-473-254"
+ },
+ {
+  "year": 2008,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Stereo vision three-dimensional terrain maps for precision agriculture",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "Computers and Electronics in Agriculture",
+  "url": "https://doi.org/10.1016/j.compag.2007.07.007"
+ },
+ {
+  "year": 2008,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Trajectory-based algorithm for the quantitative evaluation of automatically steered vehicles",
+  "authors": [
+   "F. Rovira-Más",
+   "S. Han",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the ASABE",
+  "url": ""
+ },
+ {
+  "year": 2007,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Bidirectional effect on a spectral image sensor for in-field crop reflectance assessment",
+  "authors": [
+   "Y. Kim",
+   "J. F. Reid"
+  ],
+  "venue": "International Journal of Remote Sensing",
+  "url": "https://doi.org/10.1080/01431160701253261"
+ },
+ {
+  "year": 2007,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method and system for guiding a vehicle with vision enhancement",
+  "authors": [
+   "S. Han",
+   "T. D. Pickett",
+   "J. F. Reid"
+  ],
+  "venue": "US 7242791 B2",
+  "url": "https://www.lens.org/170-371-065-794-479"
+ },
+ {
+  "year": 2007,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Obstacle detection using stereo vision",
+  "authors": [
+   "J. F. Reid"
+  ],
+  "venue": "US 7248968 B2",
+  "url": "https://www.lens.org/027-854-217-291-216"
+ },
+ {
+  "year": 2007,
+  "patent": true,
+  "kind": "Patent",
+  "title": "System and Method for Providing Guidance towards a Far-Point Position for a Vehicle Implementing a Satellite- Based Guidance System",
+  "authors": [
+   "S. Han",
+   "F. W. Nelson",
+   "T. D. Pickett",
+   "J. F. Reid"
+  ],
+  "venue": "WO 2007/145703 A2",
+  "url": "https://www.lens.org/018-050-876-681-138"
+ },
+ {
+  "year": 2006,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Agricultural 3D maps with stereovision",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "M. Kise",
+   "J. F. Reid"
+  ],
+  "venue": "Record - IEEE PLANS, Position Location and Navigation Symposium",
+  "url": "https://doi.org/10.1109/PLANS.2006.1650708"
+ },
+ {
+  "year": 2006,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Modeling and calibration of a multi-spectral imaging sensor for in-field crop nitrogen assessment",
+  "authors": [
+   "Y. Kim",
+   "J. F. Reid"
+  ],
+  "venue": "Applied Engineering in Agriculture",
+  "url": ""
+ },
+ {
+  "year": 2006,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Modular vehicle system having engine unit and mower unit for communication therewith",
+  "authors": [
+   "J. F. Reid",
+   "C. D. G. Turner"
+  ],
+  "venue": "US 7089721 B2",
+  "url": "https://www.lens.org/140-451-221-727-801"
+ },
+ {
+  "year": 2006,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Stereovision data processing with 3D density maps for agricultural vehicles",
+  "authors": [
+   "F. Rovira-Más",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "Transactions of the ASABE",
+  "url": ""
+ },
+ {
+  "year": 2006,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Vision-aided system and method for guiding a vehicle",
+  "authors": [
+   "S. Han",
+   "J. F. Reid",
+   "F. Rovira-Más"
+  ],
+  "venue": "US 2006/0149417 A1",
+  "url": "https://www.lens.org/009-359-290-750-131"
+ },
+ {
+  "year": 2005,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Creation of three-dimensional crop maps based on aerial stereoimages",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "Biosystems Engineering",
+  "url": "https://doi.org/10.1016/j.biosystemseng.2004.11.013"
+ },
+ {
+  "year": 2005,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Fuzzy logic model for sensor fusion of machine vision and GPS in autonomous navigation",
+  "authors": [
+   "F. Rovira-Más",
+   "S. Han",
+   "J. Wei",
+   "J. F. Reid"
+  ],
+  "venue": "2005 ASAE Annual International Meeting",
+  "url": ""
+ },
+ {
+  "year": 2005,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Hough-transform-based vision algorithm for crop row detection of an automated agricultural vehicle",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid",
+   "J. D. Will"
+  ],
+  "venue": "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering",
+  "url": "https://doi.org/10.1243/095440705X34667"
+ },
+ {
+  "year": 2005,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Obstacle detection using stereo vision to enhance safety of autonomous machines",
+  "authors": [
+   "J. Wei",
+   "F. Rovira-Más",
+   "J. F. Reid",
+   "S. Han"
+  ],
+  "venue": "2005 ASAE Annual International Meeting",
+  "url": ""
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Conference",
+  "title": "3D density and density maps for stereo vision-based navigation",
+  "authors": [
+   "F. Rovira-Más",
+   "J. F. Reid"
+  ],
+  "venue": "Proceedings of the International Conference on Automation Technology for Off-road Equipment, ATOE 2004",
+  "url": ""
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Journal",
+  "title": "A guidance directrix approach to vision-based vehicle guidance systems",
+  "authors": [
+   "S. Han",
+   "Q. Zhang",
+   "B. Ni",
+   "J. F. Reid"
+  ],
+  "venue": "Computers and Electronics in Agriculture",
+  "url": "https://doi.org/10.1016/j.compag.2004.01.007"
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Automated agricultural equipment navigation using stereo disparity images",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Development of a master-slave robot system for farm operations",
+  "authors": [
+   "N. Noguchi",
+   "J. Will",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "Computers and Electronics in Agriculture",
+  "url": "https://doi.org/10.1016/j.compag.2004.01.006"
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Effects of central tire inflation systems on ride quality of agricultural vehicles",
+  "authors": [
+   "B. T. Adams",
+   "J. F. Reid",
+   "J. W. Hummel",
+   "Q. Zhang",
+   "R. G. Hoeft"
+  ],
+  "venue": "Journal of Terramechanics",
+  "url": "https://doi.org/10.1016/j.jterra.2004.02.011"
+ },
+ {
+  "year": 2004,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method and apparatus for determining the quality of an image of an agricultural field using a plurality of fuzzy logic input membership functions",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 6714662 B1",
+  "url": "https://www.lens.org/196-383-686-626-402"
+ },
+ {
+  "year": 2004,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method and apparatus for processing an image of an agricultural field",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 6721453 B1",
+  "url": "https://www.lens.org/188-513-900-279-556"
+ },
+ {
+  "year": 2004,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Mobile intelligent equipment for off-road environments",
+  "authors": [
+   "J. F. Reid"
+  ],
+  "venue": "Proceedings of the International Conference on Automation Technology for Off-road Equipment, ATOE 2004",
+  "url": ""
+ },
+ {
+  "year": 2004,
+  "patent": true,
+  "kind": "Patent",
+  "title": "System and method for detecting crop rows in an agricultural field",
+  "authors": [
+   "F. Rovira-Más",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 2004/0264761 A1",
+  "url": "https://www.lens.org/064-172-865-741-637"
+ },
+ {
+  "year": 2003,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Machine Vision-Based Guidance System for an Agricultural Small-Grain Harvester",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 2003,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Machine Vision-based Guidance System for Agricultural Grain Harvesters using Cut-edge Detection",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "Biosystems Engineering",
+  "url": "https://doi.org/10.1016/j.biosystemseng.2003.07.002"
+ },
+ {
+  "year": 2003,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Machine vision based automated tractor guidance",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid",
+   "J. D. Will"
+  ],
+  "venue": "International Journal of Smart Engineering System Design",
+  "url": "https://doi.org/10.1080/10255810390445300"
+ },
+ {
+  "year": 2003,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Multi-spectral vision technology for precision farming",
+  "authors": [
+   "Y. Kim",
+   "J. F. Reid"
+  ],
+  "venue": "Resource: Engineering and Technology for Sustainable World",
+  "url": ""
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Fuzzy logic method for adaptively evaluating the validity of sensor data",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 2002/0105428 A1",
+  "url": "https://www.lens.org/125-489-666-491-870"
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Fuzzy steering controller",
+  "authors": [
+   "H. Qiu",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 6442463 B1",
+  "url": "https://www.lens.org/055-637-906-333-826"
+ },
+ {
+  "year": 2002,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Machine vision algorithm for automatic guidance of an agricultural tractor",
+  "authors": [
+   "F. Rovira-Más",
+   "Q. Zhang",
+   "J. F. Reid",
+   "J. D. Will"
+  ],
+  "venue": "Intelligent Engineering Systems Through Artificial Neural Networks",
+  "url": ""
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method and apparatus for automatically steering a vehicle in an agricultural field using a plurality of fuzzy logic membership functions",
+  "authors": [
+   "E. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "US 2002/0106108 A1",
+  "url": "https://www.lens.org/081-791-808-999-948"
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Method for monitoring nitrogen status using a multi-spectral imaging system",
+  "authors": [
+   "M. A. Dickson",
+   "L. L. Hendrickson",
+   "J. F. Reid"
+  ],
+  "venue": "AU 752868 B2",
+  "url": "https://www.lens.org/038-580-117-528-371"
+ },
+ {
+  "year": 2002,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Model recognition and validation for an off-road vehicle electrohydraulic steering controller",
+  "authors": [
+   "Q. Zhang",
+   "D. Wu",
+   "J. F. Reid",
+   "E. R. Benson"
+  ],
+  "venue": "Mechatronics",
+  "url": "https://doi.org/10.1016/S0957-4158(01)00030-7"
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Sensor-fusion navigator for automated guidance of off-road vehicles",
+  "authors": [
+   "M. A. Dickson",
+   "N. Noguchi",
+   "J. F. Reid",
+   "J. D. Will",
+   "Q. Zhang"
+  ],
+  "venue": "US 6445983 B1",
+  "url": "https://www.lens.org/173-779-996-291-034"
+ },
+ {
+  "year": 2002,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Trajectory path planner for a vision guidance system",
+  "authors": [
+   "M. A. Dickson",
+   "S. Han",
+   "B. Ni",
+   "J. F. Reid"
+  ],
+  "venue": "US 6385515 B1",
+  "url": "https://www.lens.org/033-659-203-849-614"
+ },
+ {
+  "year": 2001,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Adaptive steering controller using a Kalman estimator for wheel-type agricultural tractors",
+  "authors": [
+   "D. Wu",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "Robotica",
+  "url": "https://doi.org/10.1017/S0263574701003459"
+ },
+ {
+  "year": 2001,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Fuzzy control of electrohydraulic steering systems for agricultural vehicles",
+  "authors": [
+   "H. Qiu",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 2001,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Injector nozzle coking with oxygenated diesel",
+  "authors": [
+   "M. C. Mendoza",
+   "Q. Zhang",
+   "A. C. Hansen",
+   "J. F. Reid"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/2001-01-2016"
+ },
+ {
+  "year": 2001,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Modelling and simulation of an electrohydraulic steering system",
+  "authors": [
+   "H. C. Qiu",
+   "Q. Zhang",
+   "J. F. Reid",
+   "D. Wu"
+  ],
+  "venue": "International Journal of Vehicle Design",
+  "url": "https://doi.org/10.1504/ijvd.2001.001936"
+ },
+ {
+  "year": 2001,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Multi-Spectral Imaging Sensor",
+  "authors": [
+   "M. A. Dickson",
+   "L. L. Hendrickson",
+   "J. F. Reid"
+  ],
+  "venue": "US 2001/0016053 A1",
+  "url": "https://www.lens.org/082-306-578-117-35X"
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Agricultural automatic guidance research in North America",
+  "authors": [
+   "J. F. Reid",
+   "Q. Zhang",
+   "N. Noguchi",
+   "M. Dickson"
+  ],
+  "venue": "Computers and Electronics in Agriculture",
+  "url": "https://doi.org/10.1016/S0168-1699(99)00061-7"
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Conference",
+  "title": "An adaptive fuzzy crop edge detection method for machine vision",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang",
+   "F. A. C. Pinto"
+  ],
+  "venue": "2000 ASAE Annual Intenational Meeting, Technical Papers: Engineering Solutions for a New Century",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Development of an automated combine guidance system",
+  "authors": [
+   "E. R. Benson",
+   "J. F. Reid",
+   "Q. Zhang"
+  ],
+  "venue": "2000 ASAE Annual Intenational Meeting, Technical Papers: Engineering Solutions for a New Century",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Evaluation of A Multi-Spectral Imaging System to Detect Nitrogen Stress of Corn Crops",
+  "authors": [
+   "Y. Kim",
+   "J. F. Reid",
+   "A. Hansen",
+   "M. Dickson"
+  ],
+  "venue": "2000 ASAE Annual Intenational Meeting, Technical Papers: Engineering Solutions for a New Century",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Fuzzy control of electrohydraulic steering systems",
+  "authors": [
+   "H. Qiu",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "2000 ASAE Annual Intenational Meeting, Technical Papers: Engineering Solutions for a New Century",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Fuzzy quality evaluation for agricultural applications",
+  "authors": [
+   "E. R. Benson",
+   "Q. Zhang",
+   "J. F. Reid",
+   "M. Dickson"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/2000-01-2621"
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Hardware-in-the-loop simulator of an off-road vehicle electrohydraulic steering system",
+  "authors": [
+   "Q. Zhang",
+   "J. F. Reid",
+   "D. Wu"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Sensor fusion framework for heading determination using GPS and inertial measurement",
+  "authors": [
+   "J. D. Will",
+   "F. A. C. Pinto",
+   "N. Noguchi",
+   "Q. Zhang",
+   "J. F. Reid"
+  ],
+  "venue": "2000 ASAE Annual Intenational Meeting, Technical Papers: Engineering Solutions for a New Century",
+  "url": ""
+ },
+ {
+  "year": 2000,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Vehicle guidance parameter determination from crop row images using principal component analysis",
+  "authors": [
+   "F. A. C. Pinto",
+   "J. F. Reid",
+   "Q. Zhang",
+   "N. Noguchi"
+  ],
+  "venue": "Journal of Agricultural and Engineering Research",
+  "url": "https://doi.org/10.1006/jaer.1999.0501"
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Application of imaging tools to plant cell culture: Relationship between plant cell aggregation and flavonoid production",
+  "authors": [
+   "M. F. Pépin",
+   "M. A. L. Smith",
+   "J. F. Reid"
+  ],
+  "venue": "In Vitro Cellular and Developmental Biology - Plant",
+  "url": "https://doi.org/10.1007/s11627-999-0036-7"
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Automated guidance control for agricultural tractor using redundant sensors",
+  "authors": [
+   "Q. Zhang",
+   "J. F. Reid",
+   "N. Noguchi"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/1999-01-1874"
+ },
+ {
+  "year": 1999,
+  "patent": true,
+  "kind": "Patent",
+  "title": "Automatic machine vision microscope slide inspection system and method",
+  "authors": [
+   "J. O'Brien",
+   "J. F. Reid"
+  ],
+  "venue": "US 6005964 A",
+  "url": "https://www.lens.org/050-440-686-589-844"
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Color classifier for symptomatic soybean seeds using image processing",
+  "authors": [
+   "I. S. Ahmad",
+   "J. F. Reid",
+   "M. R. Paulsen",
+   "J. B. Sinclair"
+  ],
+  "venue": "Plant Disease",
+  "url": "https://doi.org/10.1094/PDIS.1999.83.4.320"
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Development of a precision sprayer for site-specific weed management",
+  "authors": [
+   "L. Tian",
+   "J. F. Reid",
+   "J. W. Hummel"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Nonlinear feedforward-plus-PID control for electrohydraulic steering systems",
+  "authors": [
+   "H. Qiu",
+   "Q. Zhang",
+   "J. F. Reid",
+   "D. Wu"
+  ],
+  "venue": "American Society of Mechanical Engineers, The Fluid Power and Systems Technology Division (Publication) FPST",
+  "url": ""
+ },
+ {
+  "year": 1999,
+  "patent": false,
+  "kind": "Journal",
+  "title": "System identification of an electrohydraulic steering system",
+  "authors": [
+   "H. Qiu",
+   "Q. Zhang",
+   "J. F. Reid",
+   "D. Wu"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/1999-01-2854"
+ },
+ {
+  "year": 1998,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Model recognition and simulation of an E/H steering controller on off-road equipment",
+  "authors": [
+   "D. Wu",
+   "Q. Zhang",
+   "J. F. Reid",
+   "H. Qiu",
+   "E. R. Benson"
+  ],
+  "venue": "American Society of Mechanical Engineers, The Fluid Power and Systems Technology Division (Publication) FPST",
+  "url": ""
+ },
+ {
+  "year": 1998,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Size grading of corn kernels with machine vision",
+  "authors": [
+   "B. Ni",
+   "M. R. Paulsen",
+   "J. F. Reid"
+  ],
+  "venue": "Applied Engineering in Agriculture",
+  "url": ""
+ },
+ {
+  "year": 1997,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Corn kernel crown shape identification using image processing",
+  "authors": [
+   "B. Ni",
+   "M. R. Paulsen",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1997,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Design of an automated corn kernel inspection system for machine vision",
+  "authors": [
+   "B. Ni",
+   "M. R. Paulsen",
+   "K. Liao",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1997,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Spatial-frequency analysis for detection of weed-infestation areas with the wavelet decomposition",
+  "authors": [
+   "M. H. B. Su",
+   "L. F. Tian",
+   "J. F. Reid"
+  ],
+  "venue": "Paper - American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1996,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Characterization of a color vision system",
+  "authors": [
+   "Y. C. Chang",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1996,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Evaluation of colour representations for maize images",
+  "authors": [
+   "I. S. Ahmad",
+   "J. F. Reid"
+  ],
+  "venue": "Journal of Agricultural and Engineering Research",
+  "url": "https://doi.org/10.1006/jaer.1996.0020"
+ },
+ {
+  "year": 1996,
+  "patent": false,
+  "kind": "Journal",
+  "title": "RGB calibration for color image analysis in machine vision",
+  "authors": [
+   "Y. C. Chang",
+   "J. F. Reid"
+  ],
+  "venue": "IEEE Transactions on Image Processing",
+  "url": "https://doi.org/10.1109/83.536890"
+ },
+ {
+  "year": 1995,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Coupling a machine vision sensor and a neural net supervised controller: controlling microbial cultivations",
+  "authors": [
+   "Q. Zhang",
+   "J. Bruce Litchfield",
+   "J. F. Reid",
+   "J. Ren",
+   "S. W. Chang"
+  ],
+  "venue": "Journal of Biotechnology",
+  "url": "https://doi.org/10.1016/0168-1656(94)00123-T"
+ },
+ {
+  "year": 1995,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Diesel engine simulator as a multimedia educational tool",
+  "authors": [
+   "A. C. Hansen",
+   "J. F. Reid",
+   "C. E. Goering"
+  ],
+  "venue": "ASEE Annual Conference Proceedings",
+  "url": ""
+ },
+ {
+  "year": 1995,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Non-destructive machine vision analysis of pigment-producing cell cultures",
+  "authors": [
+   "M. A. L. Smith",
+   "J. F. Reid",
+   "A. C. Hansen",
+   "Z. Li",
+   "D. L. Madhavi"
+  ],
+  "venue": "Journal of Biotechnology",
+  "url": "https://doi.org/10.1016/0168-1656(95)00025-L"
+ },
+ {
+  "year": 1994,
+  "patent": false,
+  "kind": "Journal",
+  "title": "A prototype neural network supervised control system for Bacillus thuringiensis fermentations",
+  "authors": [
+   "Q. Zhang",
+   "J. F. Reid",
+   "J. Bruce Litchfield",
+   "J. Ren",
+   "S. ‐. Chang"
+  ],
+  "venue": "Biotechnology and Bioengineering",
+  "url": "https://doi.org/10.1002/bit.260430608"
+ },
+ {
+  "year": 1994,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Knowledge-based supervision and control of bioprocess with a machine vision-based sensing system",
+  "authors": [
+   "J. Ren",
+   "J. F. Reid",
+   "J. B. Litchfield"
+  ],
+  "venue": "Journal of Biotechnology",
+  "url": "https://doi.org/10.1016/0168-1656(94)90019-1"
+ },
+ {
+  "year": 1994,
+  "patent": false,
+  "kind": "Article",
+  "title": "Machine vision microscopy and magnetic resonance microscopy",
+  "authors": [
+   "J. B. Litchfield",
+   "J. F. Reid",
+   "S. J. Schmidt"
+  ],
+  "venue": "Food Technology",
+  "url": ""
+ },
+ {
+  "year": 1994,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Real-Time Detection of Colour and Surface Defects of Maize Kernels Using Machine Vision",
+  "authors": [
+   "K. Liao",
+   "M. R. Paulsen",
+   "J. F. Reid"
+  ],
+  "venue": "Journal of Agricultural Engineering Research",
+  "url": "https://doi.org/10.1006/jaer.1994.1085"
+ },
+ {
+  "year": 1994,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Size assessment of stacked logs via the Hough transform",
+  "authors": [
+   "J. R. Brodie",
+   "A. C. Hansen",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1993,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Machine vision system for quantifying engine valve deposits",
+  "authors": [
+   "A. C. Hansen",
+   "A. G. P. Brooker",
+   "J. F. Reid"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/932807"
+ },
+ {
+  "year": 1992,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Machine vision microscopy for on-line sampling, analysis, and control",
+  "authors": [
+   "J. B. Litchfield",
+   "J. F. Reid",
+   "B. A. Richburg"
+  ],
+  "venue": "IFAC Symposia Series",
+  "url": ""
+ },
+ {
+  "year": 1992,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Trainable algorithm for inspection of soybean seed quality",
+  "authors": [
+   "W. W. Casady",
+   "M. R. Paulsen",
+   "J. F. Reid",
+   "J. B. Sinclair"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "An algorithm for computer vision sensing of a row crop guidance directrix",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/911752"
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Computer vision sensing of stress cracks in corn kernels",
+  "authors": [
+   "J. F. Reid",
+   "C. Kim",
+   "M. R. Paulsen"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Computer vision system for characterizing corn growth and development",
+  "authors": [
+   "K. A. Tarbell",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Corn growth and development attributes obtained using inductive learning techniques",
+  "authors": [
+   "K. A. Tarbell",
+   "D. K. Tcheng",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Field performance of machine vision for the selective harvest of asparagus",
+  "authors": [
+   "D. S. Humburg",
+   "J. F. Reid"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/911751"
+ },
+ {
+  "year": 1991,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Spatial and spectral characteristics of corn leaves collected using computer vision",
+  "authors": [
+   "K. A. Tarbell",
+   "J. F. Reid"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1989,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Machines see red ... and so much more",
+  "authors": [
+   "S. W. Searcy",
+   "J. F. Reid"
+  ],
+  "venue": "Agricultural engineering",
+  "url": ""
+ },
+ {
+  "year": 1989,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Quantifying diesel injector coking with computer vision",
+  "authors": [
+   "J. F. Reid",
+   "A. C. Hansen",
+   "C. E. Goering"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1988,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Algorithm for separating guidance information from row crop images",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy"
+  ],
+  "venue": "Transactions of the American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1987,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Automatic tractor guidance with computer vision",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy"
+  ],
+  "venue": "SAE Technical Papers",
+  "url": "https://doi.org/10.4271/871639"
+ },
+ {
+  "year": 1987,
+  "patent": false,
+  "kind": "Journal",
+  "title": "Vision-Based Guidance of an Agricultural Tractor",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy"
+  ],
+  "venue": "IEEE Control Systems Magazine",
+  "url": "https://doi.org/10.1109/MCS.1987.1105271"
+ },
+ {
+  "year": 1986,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Detecting Crop Rows using the Hough Transform",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy"
+  ],
+  "venue": "Paper - American Society of Agricultural Engineers",
+  "url": ""
+ },
+ {
+  "year": 1985,
+  "patent": false,
+  "kind": "Conference",
+  "title": "Determining a Guidance Directrix in Row Crop Images",
+  "authors": [
+   "J. F. Reid",
+   "S. W. Searcy",
+   "R. J. Babowicz"
+  ],
+  "venue": "Paper - American Society of Agricultural Engineers",
+  "url": ""
+ }
+]

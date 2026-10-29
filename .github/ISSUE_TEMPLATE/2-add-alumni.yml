@@ -1,0 +1,37 @@
+name: Add an alumnus
+description: For people who have left the lab. Adds a card to Alumni on the People page, and removes it from Graduate students.
+title: "Add alumnus: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when someone graduates or leaves the lab; you can fill it in for yourself or for someone else. The change is prepared automatically and goes live when a site maintainer approves it. If the person is listed under Graduate students, the card moves to Alumni.
+  - type: input
+    attributes:
+      label: Full name
+      description: Use the same spelling as on the People page.
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Degree and program
+      placeholder: M.S. Robotics
+  - type: input
+    attributes:
+      label: Year graduated
+      placeholder: "2026"
+  - type: textarea
+    attributes:
+      label: About you
+      description: Up to 3 lines (170 characters), for example what you worked on or where you are now.
+      placeholder: Worked on the BlueBoat autonomy stack. Now a robotics engineer at ...
+  - type: input
+    attributes:
+      label: Email
+      description: Shown on the card. Leave blank to hide it.
+  - type: input
+    attributes:
+      label: Website or LinkedIn
+      description: The name on the site will link here.
+      placeholder: https://www.linkedin.com/in/your-profile

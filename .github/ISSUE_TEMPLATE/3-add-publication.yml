@@ -1,0 +1,50 @@
+name: Add a publication
+description: Adds a paper or patent to the Publications page.
+title: "Add publication: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Most of Dr. Reid's papers are added from ORCID automatically; use this for anything missing, such as a new lab paper. The change is prepared automatically and goes live when a site maintainer approves it.
+  - type: input
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Authors
+      description: In order, separated by commas.
+      placeholder: A. Gavale, C. Chandnani, J. F. Reid
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Venue
+      description: Journal, conference, or book. For a patent, the patent number.
+      placeholder: Computers and Electronics in Agriculture
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Type
+      options:
+        - Journal
+        - Conference
+        - Chapter
+        - Book
+        - Article
+        - Patent
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Link
+      description: DOI or web address.
+      placeholder: https://doi.org/10.xxxx/xxxxx
