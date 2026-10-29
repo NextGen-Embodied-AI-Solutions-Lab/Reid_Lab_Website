@@ -44,10 +44,12 @@ The review step matters because anyone with a GitHub account can open an issue o
 
 ### One-time setup
 
-1. Put this folder in a GitHub repository, for example under the [lab's organization](https://github.com/NextGen-Embodied-AI-Solutions-Lab).
-2. In the repository, open *Settings → Actions → General* and, under *Workflow permissions*, tick **Allow GitHub Actions to create and approve pull requests**.
-3. Turn on GitHub Pages under *Settings → Pages* (deploy from the `main` branch, root folder). Merged pull requests then go live in a minute or two.
-4. Optionally, add a "Lab members: add yourself" link to the People page pointing to `https://github.com/<org>/<repo>/issues/new/choose`.
+The site lives in [NextGen-Embodied-AI-Solutions-Lab/Reid_Lab_Website](https://github.com/NextGen-Embodied-AI-Solutions-Lab/Reid_Lab_Website).
+
+1. In the repository, open *Settings → Actions → General* and check that, under *Workflow permissions*, **Allow GitHub Actions to create and approve pull requests** is ticked.
+2. On GitHub's free plan, Pages only works for public repositories. If the repository is private, make it public under *Settings → General → Danger Zone → Change visibility*.
+3. Turn on GitHub Pages under *Settings → Pages*: *Deploy from a branch*, branch `main`, folder `/ (root)`. The site appears at https://nextgen-embodied-ai-solutions-lab.github.io/Reid_Lab_Website/ within a few minutes, and merged pull requests go live a minute or two after merging.
+4. Optionally, add a "Lab members: add yourself" link to the People page pointing to https://github.com/NextGen-Embodied-AI-Solutions-Lab/Reid_Lab_Website/issues/new/choose.
 
 The form questions are in `.github/ISSUE_TEMPLATE/`. If you rename a question, update the matching label in `tools/add_from_issue.py`, because that's how the script finds each answer.
 
@@ -84,8 +86,8 @@ The home-page banner photo comes from Wikimedia Commons under a Creative Commons
 
 ## Publish it
 
-- **GitHub Pages** (needed for the website forms): see *One-time setup* above.
-- **Netlify or Cloudflare Pages:** drag and drop the folder. The forms won't work there, but you can still edit by hand.
+- **GitHub Pages:** see *One-time setup* above.
+- **Netlify or Cloudflare Pages:** connect the GitHub repository (a private one works too) and leave the build command empty. The site then redeploys whenever `main` changes, so the forms keep working.
 - **A custom domain:** all of these support one.
 
 ## Sources
